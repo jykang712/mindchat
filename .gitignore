@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+/ml/.venv/
+/ml/data/raw/
+/ml/models/
+__pycache__/
+*.py[cod]
+*.joblib
